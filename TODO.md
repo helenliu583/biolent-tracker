@@ -25,7 +25,7 @@
 - [ ] 'Add User' button
 
 # User Edits
-- [ ] Edit Username, PFP, Password
+- [ ] Edit Username, PFP, Password,linked accounts
 - [ ] Settings Icon across from User name
 
 # Adding Badges
