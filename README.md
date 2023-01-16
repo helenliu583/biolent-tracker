@@ -7,10 +7,10 @@ For marmoris and me. :)
 - +1 for every hour slept up to 9 hours per 24 hours (+9 max per 24-hour day)
 - -1 for every time biolent is broken (every article, novel, video, etc.)
 - -2 for every consecutive hour spent breaking biolent
-:sparkles: badge for having studied bio that day
+- :sparkles: badge for having studied bio that day
 
 ## Summary
-In progress. Next updates scheduled for Satuday, Jan 21st.
+In progress. Next updates scheduled for Saturday, Jan 21st.
 
 ## Rules
 - Be honest! :D
