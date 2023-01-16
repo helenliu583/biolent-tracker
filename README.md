@@ -16,7 +16,7 @@ In progress. Next updates scheduled for Satuday, Jan 21st.
 - Be honest! :D
 - No rollover times to edit daily status, though rollover times exist for applicable badges.
 - Badges
-  - A :flower: for every 150 points earned. Note that the maximum number of points possible per week = 147 points.
+  - A :cherry_blossom: for every 150 points earned. Note that the maximum number of points possible per week = 147 points.
   - A :tulip: for every 5 flowers (750 points). 
   - A :crown: for every 5 tulips (3750 points).
   - A :sparkles: for having studied bio that day. Updates daily, rollover at GMT+0. 
